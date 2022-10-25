@@ -1,4 +1,4 @@
-package com.zengren.music.model.response;
+package com.zengren.music.responsemodel.response;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
