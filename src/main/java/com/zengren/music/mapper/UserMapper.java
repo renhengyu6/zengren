@@ -11,6 +11,6 @@ import com.zengren.music.entity.User;
  * @since 2022-10-20 22:50:46
  */
 public interface UserMapper extends BaseMapper<User> {
-
+    boolean insertUser(User user);
 }
 
